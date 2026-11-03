@@ -1,5 +1,7 @@
 # Walkthrough — AI yang Memahami Istilah Bisnis Karangan (Knowledge Base + Data Catalog + NL2SQL)
 
+**Bahasa:** Bahasa Indonesia · [English](README.en.md)
+
 Enterprise Data Platform menjawab pertanyaan tentang istilah bisnis yang **100% fiktif** — istilah
 yang tidak ada di internet — dengan menyebut tabel dan kolom yang benar di database Anda, lalu
 membuat SQL-nya dalam bahasa Indonesia. Semua jawaban dan screenshot di bawah nyata, dijalankan
